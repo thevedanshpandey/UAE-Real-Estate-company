@@ -1,0 +1,7 @@
+{
+  "name": "AL Faren & Partners - International Real Estate",
+  "description": "A luxurious, premium corporate website for AL Faren & Partners, positioning them as an international real-estate and development leader in Dubai and India.",
+  "requestFramePermissions": [
+    "geolocation"
+  ]
+}
